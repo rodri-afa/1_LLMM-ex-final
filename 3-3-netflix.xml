@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="3-3-netflix.xsl" type="text/xsl"?>
+<netflix>
+             
+    <titulo>Bienvenid@s a Netflix</titulo>
+    <descripcion>Aquí encontrarás un montón de peliculas</descripcion>
+
+    <mejores_actores>
+        <actor>Alguien</actor>
+        <actor>Otra persona</actor>
+        <actor>Otro actor o actriz</actor>
+    </mejores_actores>
+
+
+
+     
+</netflix>
